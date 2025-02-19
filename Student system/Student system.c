@@ -5,7 +5,6 @@ struct course
 {
   char name[200];
   float grade;
-  
 };
 
 struct date
